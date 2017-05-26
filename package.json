@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tomcoakes/the-site/issues"
   },
-  "homepage": "https://github.com/tomcoakes/the-site#readme"
+  "homepage": "https://github.com/tomcoakes/the-site#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
